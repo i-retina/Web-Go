@@ -1,7 +1,7 @@
 # Web-Go
 Useful websites for programing it and cyber security enthusiasts. 
 
-                                     **•For being Anonymous**
+**• Anonymous**
 
 **--> Temp Mail**
     *Link :- https://temp-mail.org/*
@@ -24,7 +24,7 @@ Useful websites for programing it and cyber security enthusiasts.
          Sherdding files can help you to remove all sensitive files in your system for good. 
 
 
-                                **•People Search Engines**
+**•People Search Engines**
 
 **--> FaceId**
       *Link :- https://facecheck.id/*
